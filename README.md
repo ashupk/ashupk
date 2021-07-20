@@ -34,8 +34,12 @@ Follow @AAAratedbond</a>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1s218sfgioxn4cn208h7xpk4h&cover_image=true&theme=novatorem)](https://github.com/ashupk/spotify-github-profile)
 
-[![goodreads-github-profile](https://vercel.com/ashupk/goodreads/settings/environment-variables)]
+<!-- [![goodreads-github-profile](https://goodreads-ashupk.vercel.app/api/book)](https://www.goodreads.com/user/show/49723887-ashu-prakash) -->
 
+<!--
+<h3 align="left">I am currently reading:</h3>
+<a href="https://www.goodreads.com/user/show/49723887-ashu-prakash"><img src="https://goodreads-readme.vercel.app/api/book" alt="GoodReads reading" width="350" /></a>
+-->
 
 
 ### Connect with me:
