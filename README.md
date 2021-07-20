@@ -13,14 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Ashu [website] 👋
+### Hi there, I'm Ashu 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ashupk.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/AAAratedbonds?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-<a class="twitter-follow-button"
-  href="https://twitter.com/AAAratedbond"
-  data-size="large">
-Follow @AAAratedbond</a>
+![Twitter Follow](https://img.shields.io/twitter/follow/AAAratedbond?style=social)
+
 
 ## I'm a Learner, Explorer, Analyst, and Writer!!
 
