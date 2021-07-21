@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### Right now, I am listening to 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1s218sfgioxn4cn208h7xpk4h&cover_image=true&theme=novatorem)](https://github.com/ashupk/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1s218sfgioxn4cn208h7xpk4h&cover_image=true&theme=novatorem)](https://www.last.fm/user/aaaratedbond)<!--(https://github.com/ashupk/spotify-github-profile)-->
 
 <!-- [![goodreads-github-profile](https://goodreads-ashupk.vercel.app/api/book)](https://www.goodreads.com/user/show/49723887-ashu-prakash) -->
 
@@ -40,12 +40,12 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg" />](ashuprakash08[at]gmail[doc][com])
 [<img align="left" alt="Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />](https://www.facebook.com/ashu.prakash.5/)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Reddit" width="22px" src="https://simpleicons.org/icons/reddit.svg" />](https://www.reddit.com/user/ashupk1)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Telegram" width="22px" src="https://simpleicons.org/icons/telegram.svg" />](https://t.me/aaaratedbond)
 [<img align="left" alt="ResearchGate" width="22px" src="https://simpleicons.org/icons/researchgate.svg" />](https://www.researchgate.net/profile/Ashu-Prakash)
 
@@ -76,14 +76,12 @@ Here are some ideas to get you started:
 
 ---
 
-### 📺 Latest YouTube Videos
+### 💻 Projects
 
-<!-- YOUTUBE:START -->
-- [React 18 & TypeScript | How to Enable TypeScript in React 18](https://www.youtube.com/watch?v=bA5pZnEE0yA)
-- [7 HOUR React Course, Quantum Computing, and Top CSS Frameworks 🤯 // STACKr News Weekly - Issue 2](https://www.youtube.com/watch?v=z8RAL5f-SF0)
-- [Top VS Code Updates | v1.58 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=lWC3bSuADRw)
-- [AI Copilots, Dinosaurs, and AWS 🤯 // STACKr News Weekly - Issue 1](https://www.youtube.com/watch?v=7kmb7-tFuXM)
-- [First Look at GitHub Copilot in VS Code | Just Another AI Programming Tool?](https://www.youtube.com/watch?v=calK4DpJV8A)
+#### Store 
+
+- 
+  - jerkjgege
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
