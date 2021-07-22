@@ -78,16 +78,17 @@ Here are some ideas to get you started:
 
 ---
 
-### 💻 Projects
+### 💻 Business Projects
+<!-- ![Generic badge](https://img.shields.io/badge/confidential-grey.svg) -->
 
 #### Improved sales performance of a North American Telecom Giant by ML driven solutions 
-![Generic badge](https://img.shields.io/badge/confidential-grey.svg)
 - Used decision tree models to help clients understand their customer demographics
 - Based on data from the US Census Bureau, helped clients to understand store-wise performance
 - Suggested renewal of old stores as well as setting up of new stores at specific locations to increase sales 
  <img align="left" alt="R" width="26px" src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png" />
  <img align="left" alt="RShiny" width="26px" src="https://blog.rstudio.com/2021/02/01/shiny-1-6-0/thumbnail.jpg" />
  <img align="left" alt="ggplot2" width="26px" src="https://ggplot2.tidyverse.org/logo.png" />
+ <img align="left" alt="Powerpoint" width="26px" src="https://e7.pngegg.com/pngimages/742/145/png-clipart-powerpoint-logo-microsoft-powerpoint-computer-icons-ppt-presentation-microsoft-powerpoint-network-icon-angle-text.png" />
  <img align="left" alt="Tableau" width="26px" src="https://iconape.com/wp-content/png_logo_vector/tableau-software.png" /> <br />
 
 #### Goal Setting FY20 & Goal dashboards for the Fortune 1 Company 
@@ -100,7 +101,8 @@ Here are some ideas to get you started:
  <img align="left" alt="Apache Hive" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1200px-Apache_Hive_logo.svg.png" />
  <img align="left" alt="Hadoop" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/hadoop-226007.png" />
  <img align="left" alt="R" width="26px" src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png" />
- <img align="left" alt="Tableau" width="26px" src="https://iconape.com/wp-content/png_logo_vector/tableau-software.png" /> <br />
+ <img align="left" alt="Tableau" width="26px" src="https://iconape.com/wp-content/png_logo_vector/tableau-software.png" />
+ <img align="left" alt="Jira" width="26px" src="https://symbols.getvecta.com/stencil_85/33_jira-icon.6a60be29f8.png" /> <br />
  
  #### NPS (Net Promoting Score) Driver Model development for the Fortune 1 
 - Created an NPS driver database insights dashboard for the executives to understand customer behaviour
@@ -111,7 +113,8 @@ Here are some ideas to get you started:
  <img align="left" alt="Powerpoint" width="26px" src="https://e7.pngegg.com/pngimages/742/145/png-clipart-powerpoint-logo-microsoft-powerpoint-computer-icons-ppt-presentation-microsoft-powerpoint-network-icon-angle-text.png" />
  <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
  <img align="left" alt="Apache Hive" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1200px-Apache_Hive_logo.svg.png" />
- <img align="left" alt="Hadoop" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/hadoop-226007.png" /> <br />
+ <img align="left" alt="Hadoop" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/hadoop-226007.png" />
+ <img align="left" alt="Jira" width="26px" src="https://symbols.getvecta.com/stencil_85/33_jira-icon.6a60be29f8.png" /> <br />
  
   #### Fraud Investigation for the Store Managers of the Fortune 1  
 - Dealt with 1000+ ad-hoc fraud investigation requests from store managers
@@ -120,7 +123,39 @@ Here are some ideas to get you started:
  <img align="left" alt="Excel" width="26px" src="https://www.pngfind.com/pngs/m/678-6786442_microsoft-excel-computer-icons-microsoft-office-clip-transparent.png" />
  <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
  <img align="left" alt="Apache Hive" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1200px-Apache_Hive_logo.svg.png" />
- <img align="left" alt="Hadoop" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/hadoop-226007.png" /> <br />
+ <img align="left" alt="Hadoop" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/hadoop-226007.png" />
+ <img align="left" alt="Jira" width="26px" src="https://symbols.getvecta.com/stencil_85/33_jira-icon.6a60be29f8.png" /> <br />
+ 
+ #### Product Management for an Indian programming learning Start-Up [SOAL](http://soal.io/)
+ - Researched on various methodologies for modern web-dev frameworks like NodeJS, React & Electron
+ - Deployed multiple web products in Heroku and AWS and maintained the backend DB in Postgresql
+ - Developed early learning modules for advanced full-stack web development \& data structures and algorithms
+ <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+ <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="React.js" width="26px" src="https://simpleicons.org/icons/react.svg" />
+<img align="left" alt="Electron.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Markdown" width="26px" src="https://simpleicons.org/icons/markdown.svg" />
+<img align="left" alt="Slack" width="26px" src="https://image.flaticon.com/icons/png/512/2111/2111615.png" /> <br />
+
+---
+
+### 💻 Research Projects
+
+#### Moment Matching Scenario Generation Algorithm for Financial Portfolio Optimisation [TPU, Russia]() 
+- Used decision tree models to help clients understand their customer demographics
+- Based on data from the US Census Bureau, helped clients to understand store-wise performance
+- Suggested renewal of old stores as well as setting up of new stores at specific locations to increase sales 
+ <img align="left" alt="R" width="26px" src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png" />
+ <img align="left" alt="RShiny" width="26px" src="https://blog.rstudio.com/2021/02/01/shiny-1-6-0/thumbnail.jpg" />
+ <img align="left" alt="ggplot2" width="26px" src="https://ggplot2.tidyverse.org/logo.png" />
+ <img align="left" alt="Powerpoint" width="26px" src="https://e7.pngegg.com/pngimages/742/145/png-clipart-powerpoint-logo-microsoft-powerpoint-computer-icons-ppt-presentation-microsoft-powerpoint-network-icon-angle-text.png" />
+ <img align="left" alt="Tableau" width="26px" src="https://iconape.com/wp-content/png_logo_vector/tableau-software.png" /> <br />
+
+
  
  
 
