@@ -145,24 +145,36 @@ Here are some ideas to get you started:
 
 ### 💻 Research Projects
 
-#### Moment Matching Scenario Generation Algorithm for Financial Portfolio Optimisation [TPU, Russia]() 
-- Used decision tree models to help clients understand their customer demographics
-- Based on data from the US Census Bureau, helped clients to understand store-wise performance
-- Suggested renewal of old stores as well as setting up of new stores at specific locations to increase sales 
+#### Moment Matching Scenario Generation Algorithm for Financial Portfolio Optimisation [TPU, Russia](https://tpu.ru/en) 
+- Worked with [Dr. Semenov](https://portal.tpu.ru/SHARED/s/SME/) in the Department of Higher Mathematics and Mathematical Physics at TPU
+- Generated scenario trees for multistage problems using the mean CVaR model for portfolio optimization
+- Found that a negative probability scenario is generated in the algorithm if random parameters are chosen
+- Found that [Ponomareva et al, 2015](https://www.sciencedirect.com/science/article/abs/pii/S037722171400616X) missed the negative cases, though the required results <i>can</i> be generated   
  <img align="left" alt="R" width="26px" src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png" />
- <img align="left" alt="RShiny" width="26px" src="https://blog.rstudio.com/2021/02/01/shiny-1-6-0/thumbnail.jpg" />
  <img align="left" alt="ggplot2" width="26px" src="https://ggplot2.tidyverse.org/logo.png" />
  <img align="left" alt="Powerpoint" width="26px" src="https://e7.pngegg.com/pngimages/742/145/png-clipart-powerpoint-logo-microsoft-powerpoint-computer-icons-ppt-presentation-microsoft-powerpoint-network-icon-angle-text.png" />
- <img align="left" alt="Tableau" width="26px" src="https://iconape.com/wp-content/png_logo_vector/tableau-software.png" /> <br />
+ <img align="left" alt="Cross Validated" width="30px" src="https://cdn.sstatic.net/Sites/stats/Img/apple-touch-icon@2.png" /> <br />
+ 
+ #### Wavelets and its Applications [(DOI: 10.32628/CSEIT183820)](http://ijsrcseit.com/paper/CSEIT183820.pdf)
+- Worked with [Dr. Pravir Dutt](https://home.iitk.ac.in/~pravir/) in the Department of Mathematics and Statistics, IIT Kanpur
+- Researched about image compression algorithm in wavelet analysis based image processing
+- Worked with mathematical advancements on Wavelet Analysis and transformation of functions
+- Connected wavelet theory with image compression for high definition images and Google Maps application <br />
+
+#### Mathematical Model of an Ideal Time Table [(DOI: 10.13140/RG.2.2.19310.00327)](https://www.researchgate.net/publication/316286007_Ideal_Timetable_for_a_Student) 
+- Worked with [Dr. Prawal Sinha](https://portal.tpu.ru/SHARED/s/SME/) in the Department of Mathematics and Statistics, IIT Kanpur
+- Generated scenario trees for multistage problems using the mean CVaR model for portfolio optimization
+- Found that a negative probability scenario is generated in the algorithm if random parameters are chosen
+- Found that [Ponomareva et al, 2015](https://www.sciencedirect.com/science/article/abs/pii/S037722171400616X) missed the negative cases, though the required results <i>can</i> be generated   
+ <img align="left" alt="R" width="26px" src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png" />
+ <img align="left" alt="ggplot2" width="26px" src="https://ggplot2.tidyverse.org/logo.png" />
+ <img align="left" alt="Powerpoint" width="26px" src="https://e7.pngegg.com/pngimages/742/145/png-clipart-powerpoint-logo-microsoft-powerpoint-computer-icons-ppt-presentation-microsoft-powerpoint-network-icon-angle-text.png" />
+ <img align="left" alt="Cross Validated" width="30px" src="https://cdn.sstatic.net/Sites/stats/Img/apple-touch-icon@2.png" /> <br />
+ 
 
 
  
- 
-
-
-
-
----
+ ---
 
 ➡️ [more videos...](https://youtube.com/codestackr)
 <!--
