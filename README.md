@@ -80,7 +80,8 @@ Here are some ideas to get you started:
 
 ### 💻 Projects
 
-#### Improved sales performance of a North American Telecom Giant by ML driven solutions
+#### Improved sales performance of a North American Telecom Giant by ML driven solutions 
+![Generic badge](https://img.shields.io/badge/confidential-grey.svg)
 - Used decision tree models to help clients understand their customer demographics
 - Based on data from the US Census Bureau, helped clients to understand store-wise performance
 - Suggested renewal of old stores as well as setting up of new stores at specific locations to increase sales 
