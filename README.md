@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking for companies to build their analytics
 - 🥅 2021 Goals: To be alive 
 - ⚡ Fun fact: I'm a polyglot, and I love to play piano
+- 🐕 🐈 🎶 ☕ 🍫 🍕 🍗 🌳 🚴 🇮🇳
 
 ### Right now, I am listening to 🎧
 
@@ -55,7 +56,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />
 <img align="left" alt="Anaconda" width="26px" src="https://www.pngitem.com/pimgs/m/241-2413401_anaconda-python-icon-hd-png-download.png" />
-<img align="left" alt="R" width="26px" src="https://img.favpng.com/24/16/20/programming-language-rstudio-icon-png-favpng-Wfu3CTpdWSph8JQhVrmPj2zCv.jpg" />
+<img align="left" alt="R" width="26px" src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png" />
 <img align="left" alt="MATLAB" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
 <img align="left" alt="Julia" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Julia_prog_language.svg/768px-Julia_prog_language.svg.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -88,9 +89,20 @@ Here are some ideas to get you started:
  <img align="left" alt="Tableau" width="26px" src="https://iconape.com/wp-content/png_logo_vector/tableau-software.png" /> <br />
 
 #### Goal Setting FY20 & Goal dashboards for the Fortune 1 Company 
-- Used decision tree models to help clients understand their customer demographics
-- Based on data from the US Census Bureau, helped clients to understand store-wise performance
-- Suggested renewal of old stores as well as setting up of new stores at specific locations to increase sales 
+- Modelled yearly Goals for 4000+ retail stores which affected the compensation of 100000+ associates
+- Critical insights shared with the managers regarding for improving their annual bonus compensations 
+- The model was generalised for yearly goal settings built on sound statistical and AI driven mechanism
+ <img align="left" alt="Excel" width="26px" src="https://www.pngfind.com/pngs/m/678-6786442_microsoft-excel-computer-icons-microsoft-office-clip-transparent.png" />
+ <img align="left" alt="Powerpoint" width="26px" src="https://e7.pngegg.com/pngimages/742/145/png-clipart-powerpoint-logo-microsoft-powerpoint-computer-icons-ppt-presentation-microsoft-powerpoint-network-icon-angle-text.png" />
+ <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+ <img align="left" alt="Hadoop" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/hadoop-226007.png" />
+ <img align="left" alt="R" width="26px" src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png" />
+ <img align="left" alt="Tableau" width="26px" src="https://iconape.com/wp-content/png_logo_vector/tableau-software.png" /> <br />
+ 
+ #### Goal Setting FY20 & Goal dashboards for the Fortune 1 Company 
+- Modelled yearly Goals for 4000+ retail stores which affected the compensation of 100000+ associates
+- Critical insights shared with the managers regarding for improving their annual bonus compensations 
+- The model was generalised for yearly goal settings built on sound statistical and AI driven mechanism
  <img align="left" alt="Excel" width="26px" src="https://www.pngfind.com/pngs/m/678-6786442_microsoft-excel-computer-icons-microsoft-office-clip-transparent.png" />
  <img align="left" alt="Powerpoint" width="26px" src="https://e7.pngegg.com/pngimages/742/145/png-clipart-powerpoint-logo-microsoft-powerpoint-computer-icons-ppt-presentation-microsoft-powerpoint-network-icon-angle-text.png" />
  <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
