@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking for companies to build their analytics
 - 🥅 2021 Goals: To be alive 
 - ⚡ Fun fact: I'm a polyglot, and I love to play piano
-- 🐕 🐈 🎶 ☕ 🍫 🍕 🍗 🌳 🚴 🇮🇳
+- 🐕 🐈 🎶 ☕ 🍫 🍕 🍗 🌳 🚴 
 
 ### Right now, I am listening to 🎧
 
@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-226047.png" />
+<img align="left" alt="Apache Hive" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1200px-Apache_Hive_logo.svg.png" />
 <img align="left" alt="Hadoop" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/hadoop-226007.png" />
 <img align="left" alt="Tableau" width="26px" src="https://iconape.com/wp-content/png_logo_vector/tableau-software.png" />
 <img align="left" alt="MS Office" width="26px" src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" />
@@ -95,25 +96,39 @@ Here are some ideas to get you started:
  <img align="left" alt="Excel" width="26px" src="https://www.pngfind.com/pngs/m/678-6786442_microsoft-excel-computer-icons-microsoft-office-clip-transparent.png" />
  <img align="left" alt="Powerpoint" width="26px" src="https://e7.pngegg.com/pngimages/742/145/png-clipart-powerpoint-logo-microsoft-powerpoint-computer-icons-ppt-presentation-microsoft-powerpoint-network-icon-angle-text.png" />
  <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+ <img align="left" alt="Apache Hive" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1200px-Apache_Hive_logo.svg.png" />
  <img align="left" alt="Hadoop" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/hadoop-226007.png" />
  <img align="left" alt="R" width="26px" src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png" />
  <img align="left" alt="Tableau" width="26px" src="https://iconape.com/wp-content/png_logo_vector/tableau-software.png" /> <br />
  
- #### Goal Setting FY20 & Goal dashboards for the Fortune 1 Company 
-- Modelled yearly Goals for 4000+ retail stores which affected the compensation of 100000+ associates
-- Critical insights shared with the managers regarding for improving their annual bonus compensations 
-- The model was generalised for yearly goal settings built on sound statistical and AI driven mechanism
+ #### NPS (Net Promoting Score) Driver Model development for the Fortune 1 
+- Created an NPS driver database insights dashboard for the executives to understand customer behaviour
+- Variables such as order \& store attributes, demographics, web experience, order \& pickup experience were taken
+- Key factors were found behind the changing NPS scores among categorical store models based on random forest algorithm
+ <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />
  <img align="left" alt="Excel" width="26px" src="https://www.pngfind.com/pngs/m/678-6786442_microsoft-excel-computer-icons-microsoft-office-clip-transparent.png" />
  <img align="left" alt="Powerpoint" width="26px" src="https://e7.pngegg.com/pngimages/742/145/png-clipart-powerpoint-logo-microsoft-powerpoint-computer-icons-ppt-presentation-microsoft-powerpoint-network-icon-angle-text.png" />
  <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
- <img align="left" alt="Hadoop" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/hadoop-226007.png" />
- <img align="left" alt="R" width="26px" src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png" />
- <img align="left" alt="Tableau" width="26px" src="https://iconape.com/wp-content/png_logo_vector/tableau-software.png" /> <br />
+ <img align="left" alt="Apache Hive" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1200px-Apache_Hive_logo.svg.png" />
+ <img align="left" alt="Hadoop" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/hadoop-226007.png" /> <br />
+ 
+  #### Fraud Investigation for the Store Managers of the Fortune 1  
+- Dealt with 1000+ ad-hoc fraud investigation requests from store managers
+- Data cleansing on customer experience backend data based upon suspective IPs and Computer IDs
+- Risk reduction of compensatory mechanism by catching and blocking doubtful customers or ex-employees 
+ <img align="left" alt="Excel" width="26px" src="https://www.pngfind.com/pngs/m/678-6786442_microsoft-excel-computer-icons-microsoft-office-clip-transparent.png" />
+ <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+ <img align="left" alt="Apache Hive" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1200px-Apache_Hive_logo.svg.png" />
+ <img align="left" alt="Hadoop" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/hadoop-226007.png" /> <br />
+ 
+ 
 
 
-➡️ [more videos...](https://youtube.com/codestackr)
+
 
 ---
+
+➡️ [more videos...](https://youtube.com/codestackr)
 <!--
 ### 📕 Latest Blog Posts
 
