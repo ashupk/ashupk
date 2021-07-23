@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ## I'm a Learner, Explorer, Analyst, and Writer!!
 
-- 🔭 I just earned these certificates: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I just earned these [certificates](https://linktr.ee/aaaratebond)
+- 🌱 I’m currently learning everything 😅
 - 👯 I’m looking for companies to build their analytics
 - 🥅 2021 Goals: To be alive 
 - ⚡ Fun fact: I'm a polyglot, and I love to play piano
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg" />](ashuprakash08[at]gmail[doc][com])
+[<img align="left" alt="Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg" />](mailto:ashuprakash08@gmail.com)
 [<img align="left" alt="Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />](https://www.facebook.com/ashu.prakash.5/)
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
