@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 <img align="left" alt="MS Office" width="26px" src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Sublime" width="26px" src="https://toppng.com/uploads/preview/sublime-text-icon-sublime-text-3-icon-11553464063uymi94fpyp.png" />
 
 <br />
 <br />
@@ -187,18 +187,13 @@ Here are some ideas to get you started:
  <img align="left" alt="MS Office" width="26px" src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" /> <br />
  
  ---
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=ashupk&repo=ashupk&countColorcountColor&countColor=%237B1E7A)
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos..(https://youtube.com/codestackr)
 <!--
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
+
 
 ➡️ [more blog posts...](https://codestackr.com)
 
