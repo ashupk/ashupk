@@ -143,7 +143,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 💻 Research Projects
+### 🧑‍🎓 Research Projects
 
 #### Moment Matching Scenario Generation Algorithm for Financial Portfolio Optimisation [TPU, Russia](https://tpu.ru/en) 
 - Worked with [Dr. Semenov](https://portal.tpu.ru/SHARED/s/SME/) in the Department of Higher Mathematics and Mathematical Physics at TPU
@@ -171,8 +171,20 @@ Here are some ideas to get you started:
  <img align="left" alt="Powerpoint" width="26px" src="https://e7.pngegg.com/pngimages/742/145/png-clipart-powerpoint-logo-microsoft-powerpoint-computer-icons-ppt-presentation-microsoft-powerpoint-network-icon-angle-text.png" />
  <img align="left" alt="Cross Validated" width="30px" src="https://cdn.sstatic.net/Sites/stats/Img/apple-touch-icon@2.png" /> <br />
  
+ #### Heuristic Analysis of <i>Growth of Paytm</i> [(DOI: 10.17577/IJERTV6IS040337)](https://www.ijert.org/research/heuristic-analysis-of-growth-of-paytm-IJERTV6IS040337.pdf)
+- Worked with [Dr. Pakrashi](http://www.debayanpakrashi.com/) in the Department of Economic Sciences, IIT Kanpur 
+- Conducted primary survey for data collection and studied the impact of PayTM on e-commerce in India
+- Studied different factors and economic circumstances responsible for the exponential growth of Paytm
 
-
+ <img align="left" alt="MS Office" width="26px" src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" /> <br />
+ 
+ #### Analyzing Cryptocurrency with Time Series 
+- Worked with [Dr. Amit Mitra](https://home.iitk.ac.in/~amitra/) in the Department of Mathematics and Statistics, IIT Kanpur
+- Concluded that for the first 7 years, BTC followed Auto Regressive Moving Average ARMA(7,6) model
+- Estimated & Eliminated trend and seasonality in the historic Bitcoin vs USD exchange data of 7 years
+ 
+ <img align="left" alt="MATLAB" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
+ <img align="left" alt="MS Office" width="26px" src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" /> <br />
  
  ---
 
