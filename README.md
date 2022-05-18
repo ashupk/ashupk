@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Ashu 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/AAAratedbond?style=social)
+<!-- ![Twitter Follow](https://img.shields.io/twitter/follow/AAAratedbond?style=social) -->
 
 
 ## I'm a Learner, Explorer, Analyst, and Writer!!
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🔭 I just earned these [certificates](https://linktr.ee/aaaratebond)
 - 🌱 I’m currently learning everything 😅
 - 👯 I’m looking for companies to build their analytics
-- 🥅 2021 Goals: To be alive 
+- 🥅 2022 Goals: To be alive 
 - ⚡ Fun fact: I'm a polyglot, and I love to play piano
 - 🐕 🐈 🎶 ☕ 🍫 🍕 🍗 🌳 🚴 
 
@@ -54,24 +54,24 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />
-<img align="left" alt="Anaconda" width="26px" src="https://www.pngitem.com/pimgs/m/241-2413401_anaconda-python-icon-hd-png-download.png" />
-<img align="left" alt="R" width="26px" src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png" />
-<img align="left" alt="MATLAB" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
-<img align="left" alt="Julia" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Julia_prog_language.svg/768px-Julia_prog_language.svg.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-226047.png" />
-<img align="left" alt="Apache Hive" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1200px-Apache_Hive_logo.svg.png" />
-<img align="left" alt="Hadoop" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/hadoop-226007.png" />
-<img align="left" alt="Tableau" width="26px" src="https://iconape.com/wp-content/png_logo_vector/tableau-software.png" />
-<img align="left" alt="MS Office" width="26px" src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Sublime" width="26px" src="https://toppng.com/uploads/preview/sublime-text-icon-sublime-text-3-icon-11553464063uymi94fpyp.png" />
+[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />](https://www.python.org/)
+[<img align="left" alt="Anaconda" width="26px" src="https://www.pngitem.com/pimgs/m/241-2413401_anaconda-python-icon-hd-png-download.png" />](https://www.anaconda.com/)
+[<img align="left" alt="R" width="26px" src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png" />](https://www.rstudio.com/)
+[<img align="left" alt="MATLAB" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />](https://www.mathworks.com/)
+[<img align="left" alt="Julia" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Julia_prog_language.svg/768px-Julia_prog_language.svg.png" />](https://julialang.org/)
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://html.com/)
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com/)
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/en/)
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://docs.oracle.com/cd/E12151_01/index.htm)
+[<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-226047.png" />](https://www.postgresql.org/)
+[<img align="left" alt="Apache Hive" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1200px-Apache_Hive_logo.svg.png" />](https://hive.apache.org/)
+[<img align="left" alt="Hadoop" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/hadoop-226007.png" />](https://hadoop.apache.org/)
+[<img align="left" alt="Tableau" width="26px" src="https://iconape.com/wp-content/png_logo_vector/tableau-software.png" />](https://www.tableau.com/)
+[<img align="left" alt="MS Office" width="26px" src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" />](https://www.office.com/)
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
+[<img align="left" alt="Sublime" width="26px" src="https://toppng.com/uploads/preview/sublime-text-icon-sublime-text-3-icon-11553464063uymi94fpyp.png" />](https://www.sublimetext.com/)
 
 <br />
 <br />
@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 - Based on data from the US Census Bureau, helped clients to understand store-wise performance
 - Suggested renewal of old stores as well as setting up of new stores at specific locations to increase sales 
  <img align="left" alt="R" width="26px" src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png" />
- <img align="left" alt="RShiny" width="26px" src="https://blog.rstudio.com/2021/02/01/shiny-1-6-0/thumbnail.jpg" />
+ <img align="left" alt="RShiny" width="26px" src="https://www.kindpng.com/picc/m/706-7068650_r-shiny-logo-png-transparent-png.png" />
  <img align="left" alt="ggplot2" width="26px" src="https://ggplot2.tidyverse.org/logo.png" />
  <img align="left" alt="Powerpoint" width="26px" src="https://e7.pngegg.com/pngimages/742/145/png-clipart-powerpoint-logo-microsoft-powerpoint-computer-icons-ppt-presentation-microsoft-powerpoint-network-icon-angle-text.png" />
  <img align="left" alt="Tableau" width="26px" src="https://iconape.com/wp-content/png_logo_vector/tableau-software.png" /> <br />
@@ -102,7 +102,7 @@ Here are some ideas to get you started:
  <img align="left" alt="Hadoop" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/hadoop-226007.png" />
  <img align="left" alt="R" width="26px" src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png" />
  <img align="left" alt="Tableau" width="26px" src="https://iconape.com/wp-content/png_logo_vector/tableau-software.png" />
- <img align="left" alt="Jira" width="26px" src="https://symbols.getvecta.com/stencil_85/33_jira-icon.6a60be29f8.png" /> <br />
+ <img align="left" alt="Jira" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" /> <br />
  
  #### NPS (Net Promoting Score) Driver Model development for the Fortune 1 
 - Created an NPS driver database insights dashboard for the executives to understand customer behaviour
@@ -114,7 +114,7 @@ Here are some ideas to get you started:
  <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
  <img align="left" alt="Apache Hive" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1200px-Apache_Hive_logo.svg.png" />
  <img align="left" alt="Hadoop" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/hadoop-226007.png" />
- <img align="left" alt="Jira" width="26px" src="https://symbols.getvecta.com/stencil_85/33_jira-icon.6a60be29f8.png" /> <br />
+ <img align="left" alt="Jira" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" /> <br />
  
   #### Fraud Investigation for the Store Managers of the Fortune 1  
 - Dealt with 1000+ ad-hoc fraud investigation requests from store managers
@@ -124,7 +124,7 @@ Here are some ideas to get you started:
  <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
  <img align="left" alt="Apache Hive" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1200px-Apache_Hive_logo.svg.png" />
  <img align="left" alt="Hadoop" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/hadoop-226007.png" />
- <img align="left" alt="Jira" width="26px" src="https://symbols.getvecta.com/stencil_85/33_jira-icon.6a60be29f8.png" /> <br />
+ <img align="left" alt="Jira" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" /> <br />
  
  #### Product Management for an Indian programming learning Start-Up [SOAL](http://soal.io/)
  - Researched on various methodologies for modern web-dev frameworks like NodeJS, React & Electron
@@ -139,7 +139,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Electron.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Markdown" width="26px" src="https://simpleicons.org/icons/markdown.svg" />
-<img align="left" alt="Slack" width="26px" src="https://image.flaticon.com/icons/png/512/2111/2111615.png" /> <br />
+<img align="left" alt="Slack" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732245.png" /> <br />
 
 ---
 
