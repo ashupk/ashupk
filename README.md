@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### Right now, I am listening to 🎧
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1s218sfgioxn4cn208h7xpk4h&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color_cover=true)]([https://github.com/kittinan/spotify-github-profile](https://www.last.fm/user/aaaratedbond))
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1s218sfgioxn4cn208h7xpk4h&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!-- [![goodreads-github-profile](https://goodreads-ashupk.vercel.app/api/book)](https://www.goodreads.com/user/show/49723887-ashu-prakash) -->
 
