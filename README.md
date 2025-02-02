@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!-- ![Twitter Follow](https://img.shields.io/twitter/follow/AAAratedbond?style=social) -->
 
 
-## I'm a Learner, Explorer, Analyst, and Writer!!
+## I'm a Learner, Explorer, Business Consultant, and Writer!!
 
 - 🔭 I just earned these [certificates](https://linktr.ee/aaaratebond)
 - 🌱 I’m currently learning everything 😅
 - 👯 I’m looking for companies to build their analytics
-- 🥅 2022 Goals: To be alive 
+- 🥅 2025 Goals: To be alive 
 - ⚡ Fun fact: I'm a polyglot, and I love to play piano
 - 🐕 🐈 🎶 ☕ 🍫 🍕 🍗 🌳 🚴 
 
