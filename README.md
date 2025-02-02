@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I just earned these [certificates](https://linktr.ee/aaaratebond)
 - 🌱 I’m currently learning everything 😅
-- 👯 I’m looking for companies to build their analytics
+- 👯 I’m building [Analitica](https://www.goanalitica.com/) with my analytical skills
 - 🥅 2025 Goals: To be alive 
 - ⚡ Fun fact: I'm a polyglot, and I love to play piano
 - 🐕 🐈 🎶 ☕ 🍫 🍕 🍗 🌳 🚴 
